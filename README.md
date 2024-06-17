@@ -26,6 +26,14 @@ Para compilar el proyecto se debe usar mvn package.
 
 ![image](https://github.com/juancanon1725/Taller1_ARSW/assets/98672541/e2ffcfc2-4adb-427a-a4b8-a8620d6839a1)
 
+Para crear un archivo .class, compilamos el proyecto con el comando:
+
+```
+ javac CountLines.java
+```
+
+![image](https://github.com/juancanon1725/Taller1_ARSW/assets/98672541/e953afde-7951-4348-9f00-6fd97c8c6993)
+
 Para ejecutar el proyecto utilizamos los comandos:
 
 ```
@@ -35,15 +43,10 @@ Para ejecutar el proyecto utilizamos los comandos:
 ![image](https://github.com/juancanon1725/Taller1_ARSW/assets/98672541/68162998-df61-4d7b-beaa-4498aab91c32)
 
 ```
- java -cp src/main/java org.example.CountLines loc "**/*.java"
+ java -cp src/main/java org.example.CountLines phy "*.java"
 ```
 
-![image](https://github.com/juancanon1725/Taller1_ARSW/assets/98672541/9b64b308-6b3a-46a2-9b5c-187cb03805d0)
-
-
-## POM actualizado
-
-![image](https://github.com/juancanon1725/firstproyect/assets/98672541/f54e3d1e-01c2-46f3-9315-f9c21d154a61)
+![image](https://github.com/juancanon1725/Taller1_ARSW/assets/98672541/da439767-7618-42e4-ac82-85b120d3e2f6)
 
 
 ## License
