@@ -7,8 +7,9 @@ Juan Pablo Poveda Cañon
 
 ## Prerequisitos
 
-Maven: Automatiza y estandariza el flujo de vida de la construcción de software
-Git: Administrador descentralizado de configuraciones
+Maven: Automatiza y estandariza el flujo de vida de la construcción de software.
+
+Git: Administrador descentralizado de configuraciones.
 
 ## Instalación
 
