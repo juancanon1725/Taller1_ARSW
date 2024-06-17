@@ -19,8 +19,6 @@ Para crear el proyecto maven se usa el siguiente comando:
 mvn archetype:generate -DgroupId=edu.escuelaing.arsw.ASE.app -DartifactId=LOC_Counting_Taller1 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 ```
 
-![mvn_create](https://github.com/juancanon1725/firstproyect/assets/98672541/966a3cb0-eb91-48a8-ab75-c85bf0f02ac7)
-
 ## Ejecución
 
 Para compilar el proyecto se debe usar mvn package.
